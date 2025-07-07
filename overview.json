@@ -1,0 +1,60 @@
+{
+  "rootFolder": "c:\\Users\\jagriti_srivastava\\Documents\\repo_to_neo\\myrepo1",
+  "analyzedAt": "2025-07-07T10:27:26.562Z",
+  "rootStructure": [],
+  "rootFileSnippets": {},
+  "importantFolders": [],
+  "readmeParagraphs": {},
+  "totals": {
+    "numFiles": 0,
+    "numDirs": 1,
+    "totalSizeBytes": 0,
+    "totalLinesOfCode": 0
+  },
+  "fileCategories": {},
+  "linesOfCodePerLanguage": {},
+  "filesPerLanguage": {},
+  "projectTypes": [],
+  "frameworks": [],
+  "entryPoints": [],
+  "ciCdTools": [],
+  "packageManagers": [],
+  "topLevelDirectories": [],
+  "detailedDirectories": [],
+  "architecturalInsights": {
+    "coreApplications": [],
+    "entryPointDetails": [],
+    "serviceArchitecture": {
+      "microservices": [],
+      "monoliths": [],
+      "libraries": []
+    },
+    "layeredArchitecture": {
+      "presentation": [],
+      "business": [],
+      "data": [],
+      "infrastructure": []
+    }
+  },
+  "largeFiles": [],
+  "dependencies": {
+    "production": [],
+    "development": [],
+    "total": 0
+  },
+  "complexity": {
+    "averageFileSize": 0,
+    "maxFileSize": 0,
+    "nestedDepth": 0,
+    "estimatedComplexity": "low"
+  },
+  "gitRepo": {
+    "firstCommitDate": "unknown",
+    "totalCommits": 0,
+    "numContributors": 0,
+    "currentBranch": "main",
+    "remoteUrls": [
+      "https://github.com/okcode21/myrepo1.git"
+    ]
+  }
+}
