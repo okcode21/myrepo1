@@ -10,8 +10,6 @@ from utils.math_ops import multiply
 def demo():
     print("2 x 5 =", multiply(2, 5))
 
-def trial():
-    print("Checking the PR details")
     
 if __name__ == "__main__":
     main()
