@@ -1,5 +1,3 @@
-from utils import greet_user
-
 def main():
     name = input("Enter your name: ")
     print(greet_user(name))
@@ -15,3 +13,6 @@ def trial():
     
 if __name__ == "__main__":
     main()
+from utils import beautify_ops
+json_data = {}
+beautify(json_data)
