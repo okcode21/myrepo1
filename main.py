@@ -11,6 +11,8 @@ def demo():
     
 if __name__ == "__main__":
     main()
+
 from utils import beautify_ops
 json_data = {}
 beautify(json_data)
+demo()
