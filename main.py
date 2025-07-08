@@ -1,9 +1,10 @@
 from utils.math_ops import multiply
 from utils.beautify_ops import beautify
+from utils.basic import greet_user
 
 def main():
     name = input("Enter your name: ")
-    print(greet_user(name))  # <-- define this or remove
+    print(greet_user(name))  
     demo()
 
 def demo():
